@@ -13,6 +13,8 @@ public class TestBase {
 		System.out.println("TestBase sysout");
 		
 		System.out.println("New branch");
+		
+		System.out.println("sysout for newbranch 2nd commit");
 	}
 	
 
