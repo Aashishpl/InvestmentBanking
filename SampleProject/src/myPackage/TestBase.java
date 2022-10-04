@@ -11,6 +11,8 @@ public class TestBase {
 		System.out.println("HomepageBranch");
 		
 		System.out.println("TestBase sysout");
+		
+		System.out.println("New branch");
 	}
 	
 
