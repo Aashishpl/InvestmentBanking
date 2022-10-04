@@ -15,6 +15,7 @@ public class TestBase {
 		System.out.println("New branch");
 		
 		System.out.println("sysout for newbranch 2nd commit");
+		System.out.println("sysout for newbranch 2nd commit");
 	}
 	
 
